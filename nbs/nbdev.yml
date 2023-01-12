@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "new-new-new"
+  site-url: "https://anasbraj.github.io/new-new-new"
+  description: "pls work"
+  repo-branch: main
+  repo-url: "https://github.com/anasbraj/new-new-new"
